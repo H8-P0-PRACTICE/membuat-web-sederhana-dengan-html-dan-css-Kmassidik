@@ -33,6 +33,7 @@ nav ul li a {
     text-decoration: none;
 }
 section {
+    margin: 0px 400px;
     padding: 20px;
     flex: 1;
     display: flex;
